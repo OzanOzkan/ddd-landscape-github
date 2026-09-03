@@ -1,0 +1,12 @@
+tokens:
+  - ""
+
+output_location: _output
+
+topic_mining:
+  enabled: true
+  start_year: 2008
+  end_year: 2012
+  min_stars: 10
+  topics:
+    - domain-driven-design
